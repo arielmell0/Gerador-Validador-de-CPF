@@ -7,6 +7,8 @@ import './assets/css/style.css';
   const cpfGerado = document.querySelector('.cpf-gerado');
   const geraBtn = document.querySelector('.btn-gerar')
 
+  cpfGerado.innerHTML = gera.geraNovoCpf();
+
   document.addEventListener('click', event => {
     event.preventDefault()
     const target = event.target
