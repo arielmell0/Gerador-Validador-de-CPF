@@ -77,3 +77,16 @@ form button:hover {
   justify-content: center;
   align-content: center;
 }
+
+#valida-cpf {
+  text-align: center;
+}
+
+#validador-de-cpf {
+  margin-top: 100px;
+}
+
+#valida-resultado {
+  text-align: center;
+  color: red;
+}
