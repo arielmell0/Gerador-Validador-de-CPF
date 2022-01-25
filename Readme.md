@@ -8,7 +8,12 @@ Projeto desenvolvido durante o **Curso de javascript/typescript** oferecido pelo
 ## 🎨 Layout
 
 ### Web
-Demonstrando as funcionalidades:
+Projeto original desenvolvido em aula:
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Validacao-de-CPF" src="https://s10.gifyu.com/images/validacpf-aula-udemy.gif" width="1080px">
+</p>
+
+Projeto finalizado com alguns acréscimos meus:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Validacao-de-CPF" src="https://s10.gifyu.com/images/valida-cpf.gif" width="1080px">
 </p>
@@ -22,4 +27,4 @@ Demonstrando as funcionalidades:
 
 ## 📝  Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sobe a licença [MIT](./LICENSE)
