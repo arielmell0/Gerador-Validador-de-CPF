@@ -18,6 +18,14 @@ Projeto finalizado com alguns acréscimos meus:
   <img alt="Validacao-de-CPF" src="https://s10.gifyu.com/images/valida-cpf.gif" width="1080px">
 </p>
 
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+#### **Website**  ([Node](https://nodejs.org/)  +  [WebPack](https://webpack.js.org/))
+
+> Veja o arquivo  [package.json](https://github.com/arielmell0/Gerador-Validador-de-CPF/blob/main/package.json)
+
 ## 🦸 Autor
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFATecIIyJX-w/profile-displayphoto-shrink_800_800/0/1640814567518?e=1648684800&v=beta&t=2lAVIltvzGT_gH5mZvGpzjQAjrS-lzbOqvCVO5dAchQ" width="100px;" alt=""/>
  <br />
